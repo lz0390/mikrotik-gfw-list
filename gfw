@@ -131,3 +131,5 @@
 /ip firewall address-list add list=gfwtls address=www.reddit.com
 # artstation on cloudflare CDN
 /ip firewall address-list add list=gfwtls address=www.artstation.com
+# zoom
+/ip firewall address-list add list=gfwtls address=ssrweb.zoom.us
