@@ -131,3 +131,5 @@
 /ip firewall address-list add list=gfwtls address=www.reddit.com
 # artstation on cloudflare CDN
 /ip firewall address-list add list=gfwtls address=www.artstation.com
+# apkpure
+/ip firewall address-list add list=gfwtls address=apkpure.com
